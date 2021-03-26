@@ -10,4 +10,4 @@ while bananas > -2:
         print("no bananas")
     print("You ate a banana")
     bananas -= 1
-    print(f"You have {bananas} bananas left")
+    print(f"You have {bananas} bananas left in your bunch")
